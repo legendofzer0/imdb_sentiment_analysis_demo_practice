@@ -59,19 +59,10 @@ We perform basic cleaning (lowercasing, punctuation removal, stopword filtering)
 
 ## 🖼️ Sample Output
 
-- Confusion matrix and classification report
-
-  
-
----
-
-## 📈 Future Improvements
-
-- Try more advanced models (e.g., Naive Bayes, SVM, or LSTM)
-- Add grid search for hyperparameter tuning
-- Use word embeddings (e.g., Word2Vec or BERT)
-- Experiment with ensemble methods
-- Improve preprocessing (lemmatization, handling negation)
+- Confusion matrix
+  ![Confusion matrix](./confusion_matrix.png)
+-  classification report
+  ![Clasification Matrics](./report.png)
 
 ---
 
